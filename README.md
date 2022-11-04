@@ -6,6 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalzhd&hide=html,hack&theme=tokyonight)
 
+Holopin Badges
 [![@bilalzhd's Holopin board](https://holopin.me/bilalzhd)](https://holopin.io/@bilalzhd)
 
 <h3 align = "left"> Connect with me: </h3>
