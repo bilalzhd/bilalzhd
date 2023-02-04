@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning React js & Node js.
+- 🔭 I’m currently working on Full Stack Development.
+- 🌱 I’m currently learning Next js & React Native.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalzhd&hide=html,hack&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalzhd&hide=html,hack,css&theme=tokyonight)
 
 ## Holopin Badges
 
