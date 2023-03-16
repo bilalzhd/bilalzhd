@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning Next js & React Native.
+- 🌱 I’m currently learning Next js, React Native & Laravel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalzhd&hide=html,hack,css&theme=tokyonight)
 
