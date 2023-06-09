@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning Next js, React Native & Laravel.
+- 🌱 I’m currently learning Next Js 13.4.
 - The Stack I currently know, Next Js, Node Js, MongoDB/Dynamo DB
   Laravel/PHP with Jquery, React Native.
 
