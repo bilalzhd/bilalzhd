@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning Next Js 13.4.
-- The Stack I currently know, React, Next (v13+), Node Js (w/Express), <br>
-  Laravel/PHP with Jquery, React Native.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalzhd&hide=html,hack,css&theme=tokyonight)
 
 ## Holopin Badges
