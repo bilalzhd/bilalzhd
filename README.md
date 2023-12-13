@@ -3,7 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalzhd&hide=html,hack,css&theme=tokyonight)
 
-## Holopin Badges
 
 [![@bilalzhd's Holopin board](https://holopin.me/bilalzhd)](https://holopin.io/@bilalzhd)
 
